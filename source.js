@@ -1,6 +1,4 @@
-
-
-
+"use strict"
 let am =  document.getElementById('am')
 
 function displayTime(){
