@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(#FFC0CB, #FFC0CB, #4040a8);
+}
+
+
+.container{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-size: 59px;
+}
+
+#clock{
+    border: 2px solid white;
+    padding: 8px;
+}
